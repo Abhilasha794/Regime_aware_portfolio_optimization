@@ -1,0 +1,12 @@
+streamlit
+yfinance
+numpy
+pandas
+hmmlearn
+scikit-learn
+plotly
+scipy
+cvxpy
+Cython
+wheel
+setuptools
